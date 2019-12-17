@@ -1,3 +1,3 @@
 # sxyOne
 excelUtils
-这是一个基于java的生成Excel文件的工程demo
+这是一个基于java的生成Excel文件的工程demo，参考它您可以大大简化导出Excel文件的流程。
